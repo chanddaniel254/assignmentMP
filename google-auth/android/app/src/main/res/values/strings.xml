@@ -1,0 +1,6 @@
+<resources>
+  <string name="app_name">google-auth</string>
+  <string name="expo_splash_screen_resize_mode" translatable="false">contain</string>
+  <string name="expo_splash_screen_status_bar_translucent" translatable="false">false</string>
+  <string name='server_client_id'>689971174343-irbdr1s8cbj68e1q5qrk742bhs9k9002.apps.googleusercontent.com</string>
+</resources>
